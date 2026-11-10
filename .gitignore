@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+frame_*.bmp
+*.mp4
+restored*.bmp

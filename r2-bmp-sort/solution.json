@@ -1,0 +1,6 @@
+{
+  "author": "Сайдов Данила",
+  "language": "Python",
+  "build": "py -m pip install opencv-python --user",
+  "run": "py lab2.py"
+}
